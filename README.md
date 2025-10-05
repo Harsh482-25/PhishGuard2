@@ -10,8 +10,8 @@ web3
 #Demo link:
 file:///C:/Users/Asus/OneDrive/Desktop/C++/.vscode/PhishGuard2.html
 # team members:
->>Harsh Dhankhar
->>Bhavishya
->>Divyansh Verma
->>Venita
->>Rishab Rana
+Harsh Dhankhar
+Bhavishya
+Divyansh Verma
+Venita
+Rishab Rana
